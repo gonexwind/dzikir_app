@@ -6,7 +6,7 @@ Dzikiran Abis Sholat
 
 This project is a starting point for a Flutter application.
 
-<img src="screenshot/home.png" width="30%"/>
+<img src="screenshot/home.png" width="50%"/>
 
 A few resources to get you started if this is your first Flutter project:
 
